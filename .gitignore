@@ -1,6 +1,6 @@
-Assets/Library/
-Assets/Logs/
-Assets/Temp/
-Assets/UserSettings/
+Library/
+Logs/
+Temp/
+UserSettings/
 
 *.meta
